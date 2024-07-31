@@ -6,5 +6,5 @@ permalink: /about
 
 
 
-### About me
+### About
 
