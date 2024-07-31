@@ -15,19 +15,21 @@ $dark-gray-color:        #333;
 $light-gray-color:       #999;
 $extra-light-gray-color: #ccc;
 
+$baby-blue:           #8cc5d8;
+
 $container-responsive-width: 768px;
 $elements-responsive-width:  30em;
 
 $icon-transition-time: .3s;
-$envelope-color:       #f39c12;
-$twitter-color:        #00aced;
-$instagram-color:      #375989;
-$github-color:         #343434;
-$linkedin-color:       #0073a4;
-$facebook-color:       #3d5b99;
-$pinterest-color:      #bd081c;
-$medium-color:         #00AB6C;
-$codepen-color:        black;
-$rss-color:            #ff6600;
+$envelope-color:       $baby-blue;
+$twitter-color:        $baby-blue;
+$instagram-color:      $baby-blue;
+$github-color:         $baby-blue;
+$linkedin-color:       $baby-blue;
+$facebook-color:       $baby-blue;
+$pinterest-color:      $baby-blue;
+$medium-color:         $baby-blue;
+$codepen-color:        $baby-blue;
+$rss-color:            $baby-blue;
 
 @import "-sections-dir";
